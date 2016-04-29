@@ -1,0 +1,24 @@
+{
+  "name": "url_shortener",
+  "version": "1.0.0",
+  "description": "url shortener microservice",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongodb": "^2.1.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gomez-Angel/URL-Shortener.git"
+  },
+  "author": "Angel Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gomez-Angel/URL-Shortener/issues"
+  },
+  "homepage": "https://github.com/Gomez-Angel/URL-Shortener#readme"
+}
